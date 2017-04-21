@@ -7,5 +7,7 @@ We use these noise pictures as the original picture dataset's complement. To exp
 
 The original pic:
 ![Alt text](https://github.com/lpcclown/jitterpic/blob/master/1.png?raw=true "The original pic")
+
+/n
 The noised pic:
-![Alt text](https://github.com/lpcclown/jitterpic/blob/master/1.png?raw=true "The noised pic")
+![Alt text](https://github.com/lpcclown/jitterpic/blob/master/2.png?raw=true "The noised pic")
